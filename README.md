@@ -1,6 +1,6 @@
 # ds-intern-2025
 
-##0. Baseline
+## 0. Baseline
 | Skill               | 1–5 | Evidence / Notes |
 | ------------------- | --- | ---------------- |
 | Python              |  5  |  I have been using python as a main coding language since 2018 and have completed most of my projects in Python.    |
